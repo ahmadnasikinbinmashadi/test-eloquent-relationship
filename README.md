@@ -1,13 +1,18 @@
-# Test-Eloquent-Relationships
+# Test Laravel Eloquent Relationships
 This repository is My answers from a challenge of test eloquent relationship by **PovilasKorop** (https://github.com/LaravelDaily/Test-Eloquent-Relationships)
 
-## Test Laravel Eloquent Relationships Using Unit Testing
+---
+
+## Unit Testing
 
 To running a laravel test, run `php artisan test` if you using windows, or `vendor/bin/phpunit` if you using linux .
 
 ---
 
 ## Points of test
+There are 9 points of test
+
+---
 
 ### 1. HasMany relationship.
 
